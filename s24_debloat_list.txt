@@ -110,7 +110,6 @@ com.samsung.android.app.dressroom
 com.samsung.android.app.find
 com.samsung.android.app.interpreter
 com.samsung.android.app.kfa
-com.samsung.android.app.notes
 com.samsung.android.app.omcagent
 com.samsung.android.app.parentalcare
 com.samsung.android.app.readingglass
@@ -221,7 +220,6 @@ com.sec.android.easyMover
 com.sec.android.easyMover.Agent
 com.sec.android.easyonehand
 com.sec.android.emergencylauncher
-com.sec.android.gallery3d
 com.sec.android.iaft
 com.sec.android.mimage.avatarstickers
 com.sec.android.usermanual
