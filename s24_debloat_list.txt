@@ -167,7 +167,6 @@ com.samsung.android.net.wifi.wifiguider
 com.samsung.android.offline.languagemodel
 com.samsung.android.oneconnect
 com.samsung.android.privacydashboard
-com.samsung.android.provider.filterprovider
 com.samsung.android.qmdservice
 com.samsung.android.rubin.app
 com.samsung.android.samsungpass
@@ -214,8 +213,6 @@ com.sec.android.app.magnifier
 com.sec.android.app.quicktool
 com.sec.android.app.safetyassurance
 com.sec.android.app.servicemodeapp
-com.sec.android.app.ve.vebgm
-com.sec.android.app.vepreload
 com.sec.android.app.wlantest
 com.sec.android.autodoodle.service
 com.sec.android.daemonapp
