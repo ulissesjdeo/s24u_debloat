@@ -16,3 +16,10 @@ So, I did a backup of everything to be able to factory reset my phone, and here 
 6. Enable developer mode and use the debloat list
 
 That's it.
+
+## FIX ME
+
+Things I know are broken
+
+- Smart View (Mirror Screen wirelessly)
+- Samsung Dex wireless
