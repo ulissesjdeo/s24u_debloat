@@ -23,4 +23,3 @@ Things I know are broken
 
 - Smart View (Mirror Screen wirelessly)
 - Samsung Dex wireless
-- Remote storage (like usb-c ones)
