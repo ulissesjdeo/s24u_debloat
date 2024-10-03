@@ -17,6 +17,10 @@ So, I did a backup of everything to be able to factory reset my phone, and here 
 
 That's it.
 
+## My results
+
+I have about 2.5 to 3.5 GB more free RAM compared to before, and I've noticed a ridiculous roughly 45% improvement in battery life.
+
 ## FIX ME
 
 Things I know are broken
