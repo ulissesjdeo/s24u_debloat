@@ -27,3 +27,11 @@ Things I know are broken
 
 - Smart View (Mirror Screen wirelessly)
 - Samsung Dex wireless
+
+Suspect removed packages
+
+```
+com.samsung.android.allshare.service.mediashare
+com.samsung.android.mdx
+com.samsung.android.oneconnect
+```
