@@ -23,15 +23,12 @@ I have about 1.5 to 2.5 GB more free RAM compared to before, and I've noticed a 
 
 ## FIX ME
 
-Things I know are broken
+- Smart View (Mirror Screen wirelessly) and Samsung Dex wireless
+  - Suspect removed packages:
+    ```
+    com.samsung.android.allshare.service.mediashare
+    com.samsung.android.mdx
+    com.samsung.android.oneconnect
+    ```
 
-- Smart View (Mirror Screen wirelessly)
-- Samsung Dex wireless
-
-Suspect removed packages
-
-```
-com.samsung.android.allshare.service.mediashare
-com.samsung.android.mdx
-com.samsung.android.oneconnect
-```
+- Lockscreen widgets and editing
