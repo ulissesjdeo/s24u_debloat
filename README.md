@@ -37,3 +37,20 @@ I have about 1.5 to 2.5 GB more free RAM compared to before, and I've noticed a 
     com.samsung.android.app.aodservice
     com.samsung.android.app.cocktailbarservice  
     ```
+
+## Improvements
+
+I wanna get rid completely of Google spyware features and improve my experience while using my phone, so:
+
+- Install [F-Droid](https://f-droid.org/) and using it install:
+  - Aurora Store
+- Install [ReVanced Manager](https://revanced.app/download) and using it patch:
+  - [YouTube](https://www.apkmirror.com/apk/google-inc/youtube/youtube-19-16-39-release/youtube-19-16-39-android-apk-download/)
+  - [Photos](https://www.apkmirror.com/uploads/?appcategory=photos)
+- Replace `Gmail` per `Thunderbird Beta for Testers`
+
+TODO:
+- Calendar
+- Maps
+- Contacts
+- Wallet
