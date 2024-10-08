@@ -100,11 +100,9 @@ com.samsung.SMT.lang_vi_vn_f00
 com.samsung.accessibility
 com.samsung.android.accessibility.talkback
 com.samsung.android.allshare.service.mediashare
-com.samsung.android.app.aodservice
 com.samsung.android.app.appsedge
 com.samsung.android.app.camera.sticker.facearavatar.preload
 com.samsung.android.app.clipboardedge
-com.samsung.android.app.cocktailbarservice
 com.samsung.android.app.dofviewer
 com.samsung.android.app.dressroom
 com.samsung.android.app.find
