@@ -32,3 +32,8 @@ I have about 1.5 to 2.5 GB more free RAM compared to before, and I've noticed a 
     ```
 
 - Lockscreen widgets and editing
+  - Suspect removed packages:
+    ```
+    com.samsung.android.app.aodservice
+    com.samsung.android.app.cocktailbarservice  
+    ```
